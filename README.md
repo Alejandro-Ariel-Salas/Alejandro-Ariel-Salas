@@ -61,25 +61,34 @@
 
 <br>
 
-## 📊 GitHub Stats
+## 📂 My Featured Repositories
+
+<div align="center">
+  <a href="https://github.com/TU_USUARIO_GITHUB/NOMBRE-REPO-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alejandro-Ariel-Salas&repo=NOMBRE-REPO-1&theme=tokyonight" alt="Repository 1" />
+  </a>
+  <a href="https://github.com/TU_USUARIO_GITHUB/NOMBRE-REPO-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alejandro-Ariel-Salas&repo=NOMBRE-REPO-2&theme=tokyonight" alt="Repository 2" />
+  </a>
+  <a href="https://github.com/TU_USUARIO_GITHUB/NOMBRE-REPO-3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alejandro-Ariel-Salas&repo=NOMBRE-REPO-3&theme=tokyonight" alt="Repository 3" />
+  </a>
+</div>
+
+<br>
+
+## 📊 GitHub Stats & Streak
 
 <details open>
-<summary><h3>💻 Activity & Statistics</h3></summary>
+<summary><h3>🔥 Streak & Activity Stats</h3></summary>
 
 <br>
 <p align="center">
-  <img alt="Alejandro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="190px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USUARIO_GITHUB&langs_count=8&show_icons=true&locale=en&theme=tokyonight" alt="Top Languages" height="190px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alejandro-Ariel-Salas&theme=tokyonight" alt="Streak Stats" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=tokyonight" alt="Streak Stats" />
-</p>
-
 </details>
 
 ---
-
 <p align="center">
   <i>"Always learning and building software solutions."</i>
 </p>
