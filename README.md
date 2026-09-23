@@ -7,7 +7,7 @@ Desarrollador Backend & Full Stack (.NET / C# / SQL) | Técnico Analista de Sist
 ### 🚀 About Me
 
 - 🎓 **Estudios:** Estudiante de Ingeniería Informática en la Universidad Nacional Arturo Jauretche (UNAJ) con título intermedio de **Técnico Analista de Sistemas**.
-- 💼 **Experiencia:** Desarrollo de software Backend y Full Stack (.NET 6, SQL Server, Angular) en proyectos internacionales y sistemas de billeteras virtuales.
+- 💼 **Experiencia:** Desarrollo de software Backend y Full Stack (.NET 6, SQL Server, Angular) en proyectos internacionales y proyectos personales.
 - 👨‍💻 **Enfoque:** Arquitectura en capas, desarrollo de APIs RESTful, ORM (Entity Framework - Code First) y optimización de bases de datos.
 - ⚡ **Hobbies:** Entrenamiento de fuerza / gimnasio 🏋️‍♂️ y gastronomía 🍳.
 
